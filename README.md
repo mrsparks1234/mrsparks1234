@@ -1,16 +1,13 @@
-## Hi there 👋
+# Bay Yard Co
 
-<!--
-**mrsparks1234/mrsparks1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Drainage-first backyard renewal, documented construction standards, and furnished outdoor rooms across Oakland, the East Bay, and Tri-Valley.
 
-Here are some ideas to get you started:
+- Site: [bayyardco.com](https://bayyardco.com)
+- Field failure report: [Bay Area yard failure analysis](https://bayyardco.com/research/bay-area-yard-failure-report)
+- Homeowner checklist: [Yard renovation checklist](https://bayyardco.com/yard-renovation-checklist)
+- Project evidence: [Before/after build studies](https://bayyardco.com/projects)
+- Services: [Outdoor living and drainage](https://bayyardco.com/services)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current work
+
+Publishing photo-documented before/after studies, city-specific drainage strategies, and field standards for yards that remain usable through Bay Area storm season.
